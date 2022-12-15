@@ -1,0 +1,24 @@
+{
+  "name": "website-cv-marta-maczkowska",
+  "version": "1.0.0",
+  "description": "build files are in `./dist`",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fimuko/website-cv-marta-maczkowska.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://fimuko.github.io/website-cv-marta-maczkowska",
+  "bugs": {
+    "url": "https://github.com/fimuko/website-cv-marta-maczkowska/issues"
+  },
+  "homepage": "https://github.com/fimuko/website-cv-marta-maczkowska#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
